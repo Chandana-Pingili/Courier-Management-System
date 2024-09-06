@@ -1,0 +1,28 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\HP\\Desktop\\mysql-connector-j-8.1.0.jar",
+        "d:\\Desktop\\java course project\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0.jar"
+    ],
+    "java.classpath":[
+        "bin","lib/ojdbc14.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "con",
+            "database": "cms",
+            "username": "root",
+            "password": "Chandana@l47#"
+        }
+    ]
+}
